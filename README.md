@@ -11,7 +11,7 @@
 🌱 I’m currently learning **Deep Learning**
 <img align="right" alt="Coding" width="300" src="https://media.licdn.com/dms/image/D4D12AQFOan67rg3q8Q/article-cover_image-shrink_720_1280/0/1693761336583?e=2147483647&v=beta&t=E7bkbArtUYog3r8P1SILuVpj4P2mpFvEoj2RWBMiaKU">
 
-## 👨🏻‍💻 &nbsp;Sobre mi
+## 👨🏻‍💻 &nbsp;About me
 <!--👨‍💻 &nbsp;I'm Currently Working at \-->
 💡 &nbsp;I like to explore new technologies and develop IT solutions and data.\
 🎓 &nbsp;I'm currently studying Information Technology and Systems Engineering at ESAN University.\
@@ -19,11 +19,11 @@
 ✍️ &nbsp;In my free time, I spend my time learning new things about my career, reading books and writing verses about my day to day life.
 <br>
 
-## *Proyectos*
+## *Projects*
 <table>
 <tr>
     <td width="50%">
-      <h3 align="center">Imputación de datos perdidos</h3>
+      <h3 align="center">Lost data imputation</h3>
       <div align="center">
         <a href="https://gersonevangelista.github.io/imputacion_data_perdida/Imputacion_datos_perdidos.html">Proyecto 1</a>
       </div>                                                                                    
@@ -31,7 +31,7 @@
 
   <td width="50%">
   <br>
-    <h3 align="center">Validación y Balanceo de los datos</h3>
+    <h3 align="center">Data validation and balancing</h3>
     <div align="center">                                       
       <a href="https://gersonevangelista.github.io/Validacion_Balanceo_data/Validacion_Balanceo_de_Datos.html">Proyecto 2</a>
     </div>
@@ -42,7 +42,7 @@
 <tr>
 <td width="50%">
   <br>
-    <h3 align="center">Bank_Personal_Loan_Modelling (Machine Learning) en R</h3>
+    <h3 align="center">Bank_Personal_Loan_Modelling (Machine Learning) in R</h3>
     <div align="center">                                       
       <a href="https://gersonevangelista.github.io/Bank_Personal_Loan_Modelling_GCE/Bank_Personal_Loan_Modelling.html">Proyecto 3</a>
     </div>
