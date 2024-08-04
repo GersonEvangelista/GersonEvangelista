@@ -22,41 +22,50 @@
 ## *Proyectos*
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">Imputación de datos perdidos</h3>
-<div align="center">
-<a href="https://gersonevangelista.github.io/imputacion_data_perdida/Imputacion_datos_perdidos.html" class="project-card" target="_blank">
-<h3>Proyecto 1</h3>
-</a>
-</div>
-                                                                                      
-</td>
+    <td width="50%">
+      <h3 align="center">Imputación de datos perdidos</h3>
+      <div align="center">
+        <a href="https://gersonevangelista.github.io/imputacion_data_perdida/Imputacion_datos_perdidos.html">Proyecto 1</a>
+      </div>                                                                                    
+    </td>
 
+  <td width="50%">
+  <br>
+    <h3 align="center">Validación y Balanceo de los datos</h3>
+    <div align="center">                                       
+      <a href="https://gersonevangelista.github.io/Validacion_Balanceo_data/Validacion_Balanceo_de_Datos.html">Proyecto 2</a>
+    </div>
+    <br>
+  </td>
+</tr>
+
+<tr>
 <td width="50%">
-               <br>
-<h3 align="center">Validación y Balanceo de los datos</h3>
-<div align="center">                                       
-<a href="https://gersonevangelista.github.io/Validacion_Balanceo_data/Validacion_Balanceo_de_Datos.html" class="project-card" target="_blank">
-  <h3>Proyecto 2</h3>
-</a>
-</div>                                                             
+  <br>
+    <h3 align="center">Bank_Personal_Loan_Modelling (Machine Learning) en R</h3>
+    <div align="center">                                       
+      <a href="https://gersonevangelista.github.io/Bank_Personal_Loan_Modelling_GCE/Bank_Personal_Loan_Modelling.html">Proyecto 3</a>
+    </div>
+    <br>
+  </td>
+</tr>
+
 </table>                                                                                 
-</div>
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/GersonEvangelista">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GersonEvangelista&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GersonEvangelista&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gersonchaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
-<a href="https://kaggle.com/gersonchaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anirudhrai693" height="30" width="40" /></a>
-<a href="https://instagram.com/gce.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/gersonchaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+  <a href="https://kaggle.com/gersonchaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anirudhrai693" height="30" width="40" /></a>
+  <a href="https://instagram.com/gce.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
 </p>
 <br>
